@@ -184,12 +184,19 @@ body {
 
 @media (max-width: 426px) {
 
+    .h1 {
+        height: 38vh;
+        width: 157vw;
+        font-size: 2em;
+        top: 39%;
+        left: -41%;
+    }
     
     .h2 {
-        font-size: 8em;
+        font-size: 5em;
         right: -7%;
-        height: 20vh;
-        width: 44vw;
+        height: 11vh;
+        width: 37vw;
     }
 
     .imgs {
