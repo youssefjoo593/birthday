@@ -5,7 +5,7 @@
 
 body {
     background-color: blueviolet;
-    background-image: url(/bgg.jpeg);
+    background-image: url(bgg.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -103,7 +103,7 @@ body {
 @media (max-width: 600px) {
     body {
         background-color: blueviolet;
-        background-image: url(/bg.jpg);
+        background-image: url(bg.jpg);
         background-size: cover;
     }
 
@@ -118,7 +118,7 @@ body {
 @media (max-width: 550px) {
     body {
         background-color: blueviolet;
-        background-image: url(/bg.jpg);
+        background-image: url(bg.jpg);
         background-size: cover;
     }
 
@@ -133,7 +133,7 @@ body {
 @media (max-width: 500px) {
     body {
         background-color: blueviolet;
-        background-image: url(/bg.jpg);
+        background-image: url(bg.jpg);
         background-size: cover;
     }
 
